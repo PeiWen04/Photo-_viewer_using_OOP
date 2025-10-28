@@ -1,23 +1,6 @@
-Here’s a professional **`README.md`** you can include for your `Photo Viewer.py` project:
-
----
-
 # 🖼️ Photo Viewer
 
 A **menu-driven photo management application** built using **Object-Oriented Programming (OOP)** principles. The program enables users to efficiently manage their photo collections with features like viewing, deleting, restoring, and marking photos as favorites.
-
----
-
-## 📋 Table of Contents
-
-* [Overview](#overview)
-* [Program Structure](#program-structure)
-* [Features](#features)
-* [How It Works](#how-it-works)
-* [Technologies Used](#technologies-used)
-* [Getting Started](#getting-started)
-* [Example Usage](#example-usage)
-* [Author](#author)
 
 ---
 
@@ -147,4 +130,3 @@ Enter your choice: 2
 
 ---
 
-Would you like me to include **badges**, a **preview image**, or a **license section** (e.g., MIT License) to make it look more professional for GitHub?
