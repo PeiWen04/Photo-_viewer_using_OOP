@@ -124,9 +124,3 @@ Enter your choice: 2
 → Displaying all photos in gallery...
 ```
 
----
-
-
-
----
-
